@@ -13,7 +13,7 @@ https://github.com/markeyser/ml-intro-pap
 ## Session Calendar
 
 - [X] Session 1: 9/5 (Thursday)
-- [ ] Session 2: 9/12 (Thursday)
+- [X] Session 2: 9/12 (Thursday)
 - [ ] Session 3: 9/13 (Friday)
 - [ ] Session 4: 9/19 (Thursday)
 - [ ] Session 5: 9/26 (Thursday)
