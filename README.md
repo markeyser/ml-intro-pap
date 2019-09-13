@@ -94,6 +94,17 @@ This course contains six sections, each one covering the different steps of the 
 3. [**Tutorial:** Exploratory Data Analysis with your Kaggle data](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S2/03-Tutorial-Data-Analysis.ipynb)
 
 ### Session 3: Data Pre-Processing: Feature Engineering
+
+1. [Introduction](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/01-Introduction.ipynb)
+2. [Missing Data](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/02-Missing-Data.ipynb)
+3. [Cardinality](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/03-Cardinality-Categorical-Variables.ipynb)
+4. [Rare Labels](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/04-Rare-Labels.ipynb)
+5. [Outliers](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/05-Outliers.ipynb)
+6. [Variable Magnitude](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/06-Variable-Magnitude.ipynb)
+7. [**Demo**: Feature Engineering](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/07-Demo-Feature-Engineering.ipynb)
+8. [**Tutorial**: Feature Engineering](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/08-Tutorial-Feature-Engineering.ipynb)
+7. [ML Comparison](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/ML-Comparison.pdf)
+
 ### Session 4: Variable selection: Feature Selection
 ### Session 5: Machine Learning Model Building and Evaluation
 ### Session 6: Machine Learning Model Building and Evaluation
