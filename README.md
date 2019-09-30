@@ -1,12 +1,12 @@
 # Machine Learning Intro PAP
 
-Please use `nbviewer` if you cannot render the static content of a jupyter notebook:
-
-[![](/imgs/nbviewer.png)](https://nbviewer.jupyter.org/)
-
 With Binder, you can open the notebooks in an executable environment on your web browser. Doing this you don't need to install Anaconda distribution or cloning this repository on your laptop:
 
-[![](/imgs/binder.png)](https://mybinder.org/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markeyser/ml-intro-pap/master)
+
+Please use `nbviewer` if you cannot render the static content of a jupyter notebook:
+
+[![](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/)
 
 ## Instructor
 
