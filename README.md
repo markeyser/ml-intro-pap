@@ -22,10 +22,10 @@ https://github.com/markeyser/ml-intro-pap
 
 - [X] Session 1: 9/5 (Thursday)
 - [X] Session 2: 9/12 (Thursday)
-- [ ] Session 3: 9/13 (Friday)
-- [ ] Session 4: 9/19 (Thursday)
-- [ ] Session 5: 9/26 (Thursday)
-- [ ] Session 6: 10/3 (Thursday)
+- [X] Session 3: 9/13 (Friday)
+- [X] Session 4: 9/19 (Thursday)
+- [X] Session 5: 9/26 (Thursday)
+- [X] Session 6: 10/3 (Thursday)
 
 All sessions in the evening 6-8:30 pm.
 
@@ -106,5 +106,30 @@ This course contains six sections, each one covering the different steps of the 
 7. [ML Comparison](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/ML-Comparison.pdf)
 
 ### Session 4: Variable selection: Feature Selection
+
+1. [Introduction to Feature Selection]()
+2. [Feature selection with Random Forests]()
+3. [Feature selection with LASSO regularization]()
+4. [**Demo**: Feature Selection]()
+5. [**Tutorial**: Feature Selection]()
+
 ### Session 5: Machine Learning Model Building and Evaluation
+
+1. [Introduction to Machine Learning]()
+2. [Machine Learning with Scikit-Learn]()
+3. [Intrduction to Linear Regression]()
+4. [Introduction to Logistic Regression]()
+5. [**Demo**: Logistic Regression]()
+6. [**Tutorial**: Logistic Regression]()
+7. [**Tutorial**: Logistic Regression - Solutions]()
+
 ### Session 6: Machine Learning Model Building and Evaluation
+
+1. [Bias-Variance Trade-Off]()
+2. [Feature selection with LASSO regularization]()
+3. [**Demo**: Feature selection with LASSO regularization]()
+4. [**Demo**: Model building with Linear model???]()
+4. [Introduction to Tree Methods]()
+5. [**Demo**: Decision Trees and Random Forests with Scikit-Learn]()
+
+
